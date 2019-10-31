@@ -1,24 +1,84 @@
-html {
-   background-color: #000033;
+/*Imagen de fondo*/
+ body {
+   background-image: url("https://hdqwalls.com/download/kurzgesagt-to-720x1280.jpg");
+
  }
+/*encabezado*/
+ header {
+   background-color:#33cccc;
+   width:400px;
+   height: 200px;
+   margin:20px 200px;
+   margin-bottom: 80px;
+   padding: 20px;
+   padding-top: 10px;
+   position: relative;
+   top:10px;
+   rigth:100px;
+   left:170px;
+   text-align: center;
+
+ }
+
 h1 {
   color:#ffffff;
-  font-size: 50px;
+  font-size: 60px;
+  /*padding-bottom: 10px;
+  padding-left: 80px;*/
+
 }
 
 h2 {
   color:#ffffff;
-  font-size:20px;
+  font-size:30px;
 }
-main {
+/*main {
   color:#cc66ff;
-}
-
-
+}*/
 article {
-  color:#00ffcc;
+  color:#cc66ff;
+  background-color: pink;
+  width:400px;
+  height: 300px;
+  /*margin:20px 200px;
+  margin-bottom: 80px;
+  padding: 20px;
+  padding-top: 10px;*/
+  position: relative;
+  top:40px;
+  left:10px;
 }
 
-#h1 {
-  font-size: rgba(255, 0, 0, 0.5);px;
+ul {
+  color:#000000;
+  font-size:20px;
+  /*width: es el ancho de la caja*/
+}
+section {
+  color:#ffffff;
+  background-color:#99cccc;
+  width:400px;
+  height:180px;
+  margin:50px 20px;
+  border:50px color:#ffffff;
+  padding:20px;
+  /*padding-top: 50px;*/
+  display:inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+
+div {
+
+  color:green;
+  background-color: #33ff99;
+  width:100px;
+  height:70px;
+  margin:50px 20px;
+  border:50px color:#ffffff;
+  padding:10px;
+  display:inline-block;
+  vertical-align: top;
+  text-align: center;
+
 }
