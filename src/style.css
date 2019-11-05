@@ -1,9 +1,8 @@
 /*Imagen de fondo*/
  body {
    background-image: url("https://hdqwalls.com/download/kurzgesagt-to-720x1280.jpg");
-
  }
-/*encabezado*/
+/*Encabezado:titulo y slogan*/
  header {
    background-color:#33cccc;
    width:400px;
@@ -17,48 +16,56 @@
    rigth:100px;
    left:170px;
    text-align: center;
-
  }
 
+/*Detalles del titulo de la pagina*/
 h1 {
   color:#ffffff;
   font-size: 60px;
   /*padding-bottom: 10px;
   padding-left: 80px;*/
-
 }
-
+/*Detalles del slogan*/
 h2 {
   color:#ffffff;
   font-size:30px;
 }
-/*main {
-  color:#cc66ff;
-}*/
+/*Instrucciones de la pagina*/
 article {
   color:#cc66ff;
+  padding-top: 20px;
   background-color: pink;
+  text-align: center;
   width:400px;
-  height: 300px;
+  height: 350px;
   /*margin:20px 200px;
   margin-bottom: 80px;
   padding: 20px;
   padding-top: 10px;*/
   position: relative;
-  top:40px;
+  top:80px;
   left:10px;
 }
-
+/*Detalles del listado de instrucciones*/
 ul {
   color:#000000;
-  font-size:20px;
+  font-size:15px;
+  /*text-align: left;
+  padding: 40px;*/
+
   /*width: es el ancho de la caja*/
 }
+/*interlineado entre viñetas*/
+li {
+  line-height: 6ex;
+}
+/*Cajas de encriptado y desencriptado*/
 section {
   color:#ffffff;
-  background-color:#99cccc;
+  font-size: 20px;
+  background-color:#669999;
   width:400px;
-  height:180px;
+  height:240px;
   margin:50px 20px;
   border:50px color:#ffffff;
   padding:20px;
@@ -66,14 +73,17 @@ section {
   display:inline-block;
   vertical-align: top;
   text-align: center;
+  position: relative;
+  top:80px;
+  left:10px;
 }
-
+/*Caja numero de desplazamientos*/
 div {
-
-  color:green;
-  background-color: #33ff99;
-  width:100px;
-  height:70px;
+  color:#000000;
+  background-color: #99cccc;
+  font-size: 18px;
+  width:120px;
+  height:100px;
   margin:50px 20px;
   border:50px color:#ffffff;
   padding:10px;
@@ -81,4 +91,13 @@ div {
   vertical-align: top;
   text-align: center;
 
+}
+footer {
+  background-color: #ff99ff;
+  width:500px;
+  height:60px;
+  margin:50px 20px;
+  position: relative;
+  top:100px;
+  left:600px;
 }
