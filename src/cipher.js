@@ -1,27 +1,25 @@
 window.cipher = {
   // Acá escribe tu código//
+ encode: (offset,string) => {
 
+ let resultado="";
 
-function (string,offset);{
+    for(i = 0; i < string.length; i++) {
+      //resultado= resultado + (String.fromCharCode((string.charCodeAt(i)-65 + offset)%26 + 65));
+      let enAscii=string.charCodeAt(i)
+      if(enAscii>= 65 && enAscii <= 90){
+        resultado= resultado + (String.fromCharCode((enAscii)-65 + offset)%26 + 65));
+      } else if(>65){
+        alert("Recuerda, sólo Mayusculas")
 
-
-  let NuevaContraseña = ""  //variable de la nueva contraseña
-
-  //for (let i=0; i<text.length; i++){   //ciclo para evaluar cada letra
-
-  let evalua = text [i];//
-
-
-
-
-
+      } else {
+          alert("Recuerda, sólo Mayusculas")
+        }
+          }
+    console.log(resultado);
   }
 
 
-
-
-text.chardCodeAt(i) =
-for (i=0,i<text.lenght,i++)
 
 
 
