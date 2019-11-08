@@ -32,16 +32,12 @@ h2 {
 }
 /*Instrucciones de la pagina*/
 article {
-  color:#cc66ff;
-  padding-top: 20px;
+  color:#D7206E;
+  padding-top: 4px;
   background-color: pink;
   text-align: center;
-  width:400px;
-  height: 350px;
-  /*margin:20px 200px;
-  margin-bottom: 80px;
-  padding: 20px;
-  padding-top: 10px;*/
+  width:760px;
+  height: 440px;
   position: relative;
   top:80px;
   left:10px;
@@ -49,7 +45,7 @@ article {
 /*Detalles del listado de instrucciones*/
 ul {
   color:#000000;
-  font-size:15px;
+  font-size:16px;
   /*text-align: left;
   padding: 40px;*/
 
@@ -57,7 +53,7 @@ ul {
 }
 /*interlineado entre viñetas*/
 li {
-  line-height: 6ex;
+  line-height: 4ex;
 }
 /*Cajas de encriptado y desencriptado*/
 section {
@@ -74,7 +70,7 @@ section {
   vertical-align: top;
   text-align: center;
   position: relative;
-  top:80px;
+  top:100px;
   left:10px;
 }
 /*Caja numero de desplazamientos*/
@@ -90,7 +86,9 @@ div {
   display:inline-block;
   vertical-align: top;
   text-align: center;
-
+  position: relative;
+  top:100px;
+  left:10px;
 }
 footer {
   background-color: #ff99ff;

@@ -20,14 +20,14 @@ window.cipher = {
   let resultado2="";
 
     for(i =0; i < string.length; i++) {
-      resultado2= resultado2 + (String.fromCharCode((string.charCodeAt(i)-65 - offset)%26 + 65));
+      let enAscii=string.charCodeAt(i);
+      if(enAscii>= 65 && enAscii <= 90){
+      resultado2= resultado2 + (String.fromCharCode((enAscii+65 - offset)%26 + 65));
     //  resultado2= resultado2 + (String.fromCharCode((string.charCodeAt(i)+90 - offset)%26 + 0));
-
+    }
     }
 console.log(resultado2);
  return resultado2;
 }
+
    };
-
-
-//}
