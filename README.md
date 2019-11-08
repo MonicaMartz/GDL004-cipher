@@ -13,7 +13,7 @@ Con My Wifi podrán recordar de una forma fácil la contraseña, como anotando s
 
 ## Desarrollo del Proyecto
 Con base a la idea anterior, cree el primer prototipos
-![Primer-prototipo]https://i.pinimg.com/originals/7b/5a/b5/7b5ab52c0fb6b61d8dc16ae9c81d9dfa.jpg
+![Primer-prototipo](https://i.pinimg.com/originals/7b/5a/b5/7b5ab52c0fb6b61d8dc16ae9c81d9dfa.jpg)
 
 * La primera fue una versión muy amplia de la pagína, con contenido innecesario como cuadros de texto adicionales.
 
