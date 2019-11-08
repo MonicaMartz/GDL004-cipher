@@ -13,7 +13,7 @@ Con My Wifi podrán recordar de una forma fácil la contraseña, como anotando s
 
 ## Desarrollo del Proyecto
 Con base a la idea anterior, cree el primer prototipos
-![Primer-prototipo](https://www.pinterest.com.mx/pin/385409680613740775)
+![Primer-prototipo]https://i.pinimg.com/originals/7b/5a/b5/7b5ab52c0fb6b61d8dc16ae9c81d9dfa.jpg
 
 * La primera fue una versión muy amplia de la pagína, con contenido innecesario como cuadros de texto adicionales.
 
@@ -22,5 +22,14 @@ Con base a la idea anterior, cree el primer prototipos
 * Tenia pensada la tematica de la pagina en un concepto del espacio exterior, pero por el rango de edades de los usuarios, se adaptó la gama de colores y fondo para ser amigable con el usurario.
 
 Quedando de esta forma:
-![Prototipo-final](https://www.pinterest.com.mx/pin/385409680613740923/)
-![Prototipo-final2](https://www.pinterest.com.mx/pin/385409680613740929/)
+![Prototipo-final](https://i.pinimg.com/originals/dd/ec/e8/ddece8461237e9919f8d4d714b87458b.png)
+![Prototipo-final2](https://i.pinimg.com/originals/f2/d2/71/f2d2711f65d3a74f3254cb7c1454e102.png)
+
+
+
+Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher)
+es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio
+César lo usaba para enviar órdenes secretas a sus generales en los campos de
+batalla.
+
+![caeser-cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/2000px-Caesar3.svg.png)
