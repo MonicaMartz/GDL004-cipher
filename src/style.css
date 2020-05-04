@@ -1,101 +1,101 @@
 /*Imagen de fondo*/
- body {
-   background-image: url("https://hdqwalls.com/download/kurzgesagt-to-720x1280.jpg");
- }
+body {
+  background-image: url("https://hdqwalls.com/download/kurzgesagt-to-720x1280.jpg");
+}
 /*Encabezado:titulo y slogan*/
- header {
-   background-color:#33cccc;
-   width:400px;
-   height: 200px;
-   margin:20px 200px;
-   margin-bottom: 80px;
-   padding: 20px;
-   padding-top: 10px;
-   position: relative;
-   top:10px;
-   rigth:100px;
-   left:170px;
-   text-align: center;
- }
+header {
+  background-color:#33cccc;
+  width:400px;
+  height: 200px;
+  margin:20px 200px;
+  margin-bottom: 80px;
+  padding: 20px;
+  padding-top: 10px;
+  position: relative;
+  top:10px;
+  rigth:100px;
+  left:170px;
+  text-align: center;
+}
 
 /*Detalles del titulo de la pagina*/
 h1 {
-  color:#ffffff;
-  font-size: 60px;
-  /*padding-bottom: 10px;
-  padding-left: 80px;*/
+ color:#ffffff;
+ font-size: 60px;
+ /*padding-bottom: 10px;
+ padding-left: 80px;*/
 }
 /*Detalles del slogan*/
 h2 {
-  color:#ffffff;
-  font-size:30px;
+ color:#ffffff;
+ font-size:30px;
 }
 /*Instrucciones de la pagina*/
 article {
-  color:#D7206E;
-  padding-top: 4px;
-  background-color: pink;
-  text-align: center;
-  width:760px;
-  height: 440px;
-  position: relative;
-  top:80px;
-  left:10px;
+ color:#D7206E;
+ padding-top: 4px;
+ background-color: pink;
+ text-align: center;
+ width:760px;
+ height: 440px;
+ position: relative;
+ top:80px;
+ left:10px;
 }
 /*Detalles del listado de instrucciones*/
 ul {
-  color:#000000;
-  font-size:16px;
-  /*text-align: left;
-  padding: 40px;*/
+ color:#000000;
+ font-size:16px;
+ /*text-align: left;
+ padding: 40px;*/
 
-  /*width: es el ancho de la caja*/
+ /*width: es el ancho de la caja*/
 }
 /*interlineado entre viñetas*/
 li {
-  line-height: 4ex;
+ line-height: 4ex;
 }
 /*Cajas de encriptado y desencriptado*/
 section {
-  color:#ffffff;
-  font-size: 20px;
-  background-color:#669999;
-  width:400px;
-  height:240px;
-  margin:50px 20px;
-  border:50px color:#ffffff;
-  padding:20px;
-  /*padding-top: 50px;*/
-  display:inline-block;
-  vertical-align: top;
-  text-align: center;
-  position: relative;
-  top:100px;
-  left:10px;
+ color:#ffffff;
+ font-size: 20px;
+ background-color:#669999;
+ width:400px;
+ height:240px;
+ margin:50px 20px;
+ border:50px color:#ffffff;
+ padding:20px;
+ /*padding-top: 50px;*/
+ display:inline-block;
+ vertical-align: top;
+ text-align: center;
+ position: relative;
+ top:100px;
+ left:10px;
 }
 /*Caja numero de desplazamientos*/
 div {
-  color:#000000;
-  background-color: #99cccc;
-  font-size: 18px;
-  width:120px;
-  height:100px;
-  margin:50px 20px;
-  border:50px color:#ffffff;
-  padding:10px;
-  display:inline-block;
-  vertical-align: top;
-  text-align: center;
-  position: relative;
-  top:100px;
-  left:10px;
+ color:#000000;
+ background-color: #99cccc;
+ font-size: 18px;
+ width:120px;
+ height:100px;
+ margin:50px 20px;
+ border:50px color:#ffffff;
+ padding:10px;
+ display:inline-block;
+ vertical-align: top;
+ text-align: center;
+ position: relative;
+ top:100px;
+ left:10px;
 }
 footer {
-  background-color: #ff99ff;
-  width:500px;
-  height:60px;
-  margin:50px 20px;
-  position: relative;
-  top:100px;
-  left:600px;
+ background-color: #ff99ff;
+ width:500px;
+ height:60px;
+ margin:50px 20px;
+ position: relative;
+ top:100px;
+ left:600px;
 }
